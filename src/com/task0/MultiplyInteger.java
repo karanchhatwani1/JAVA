@@ -14,5 +14,6 @@ public class MultiplyInteger {
 
         float result = num1*num2;
         System.out.println("Multiplication result = " + result);
+
     }
 }
