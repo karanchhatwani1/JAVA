@@ -22,5 +22,6 @@ public class Frequency {
                 System.out.println(ch[i]+"-"+freq[i]);
             }
         }
+
     }
 }
