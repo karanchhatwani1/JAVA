@@ -32,8 +32,10 @@ public class QuadraticRoot {
         else{
             double real = -b/(2*a);
             double imaginary = Math.sqrt(-determinant)/(2*a);
-            System.out.println("real root is : "+real);
-            System.out.println("imaginary root is : "+imaginary);
+            r1 = real+imaginary;
+            r2 = real-imaginary;
+            System.out.println("real root is : "+r1);
+            System.out.println("imaginary root is : "+r2);
 
         }
     }
