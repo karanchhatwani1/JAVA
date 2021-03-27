@@ -12,5 +12,6 @@ public class AsciiValue {
         int asciiChar = (int)c;
 
         System.out.println("Ascii value of the entered character is : "+asciiChar);
+
     }
 }
