@@ -10,5 +10,6 @@ public class Main {
         a = sc.nextInt();
 
         System.out.println(a);
+
     }
 }
