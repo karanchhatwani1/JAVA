@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class RoundFigure {
     public static void main(String[] args) {
+
         double num;
         int n;
         Scanner sc = new Scanner(System.in);
